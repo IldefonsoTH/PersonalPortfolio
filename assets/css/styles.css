@@ -1056,6 +1056,11 @@ text-align: center;
     width: 180px;
   }
 
+  .home_links a{
+    width: 32px;
+    height: 32px;
+  }
+
   .about_image{
     width: 280px;
   }
