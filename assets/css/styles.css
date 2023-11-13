@@ -1057,16 +1057,14 @@ text-align: center;
   }
 
   .home_links {
-    display: flex;
-    gap: 5px; /* Ajusta este valor para reducir el espacio entre los botones en dispositivos móviles */
+    display: inline;
+    height: max-content;
   }
 
-  .home_social-link {
-    height: max-content;
-    display: grid;
-    place-items: center;
-    transition: background-color 0.3s;
+  .home_social-link{
+    margin-bottom: 0.75rem;
   }
+
 
   .about_image{
     width: 280px;
