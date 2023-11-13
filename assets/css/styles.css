@@ -1059,7 +1059,7 @@ text-align: center;
   .home_links a{
     height: max-content;
     display: flex;
-    gap: 5px;
+    row-gap: 0.5px;
   }
 
   .about_image{
