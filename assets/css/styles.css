@@ -1057,8 +1057,8 @@ text-align: center;
   }
 
   .home_links a{
-    width: 32px;
-    height: 32px;
+    height: max-content;
+    
   }
 
   .about_image{
