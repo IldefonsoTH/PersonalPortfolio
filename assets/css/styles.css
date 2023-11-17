@@ -827,7 +827,7 @@ background-color: #2A454E;
   height: 300px;
   background-color: var(--container-color);
   padding: 3rem 1.5rem 3.5rem;
-  margin-left: auto;
+  margin: auto;
   border-bottom: 4px solid var(--first-color);
   z-index: 5;
   transition: background-color 0.4s;
@@ -1077,8 +1077,7 @@ text-align: center;
   }
 
   .contact_data{
-    width: 100%;
-    transform: translateX(2.5rem);
+    width: 320px;
   }
 
   .contact_data .section__title-2{
